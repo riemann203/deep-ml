@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:16:44.376Z",
+  "generated_at": "2026-10-01T06:16:46.257Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -182,6 +182,45 @@
       "last_pushed_at": "2026-08-19T04:43:34.739Z",
       "language": "python",
       "lines": 77
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-08-20T03:15:21.031Z",
+      "last_pushed_at": "2026-08-20T03:15:21.031Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-08-20T06:05:47.429Z",
+      "last_pushed_at": "2026-08-20T06:05:47.429Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-08-20T06:30:35.601Z",
+      "last_pushed_at": "2026-08-20T06:30:35.601Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
