@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 16 problems · 2 labs · 0 math
+**19** solved · 17 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-16 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-16 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-05 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-06 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-16 | [solution](problems/0007-matrix-transformation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-16 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
