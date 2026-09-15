@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:16:53.474Z",
+  "generated_at": "2026-10-01T06:16:55.193Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -286,6 +286,45 @@
       "last_pushed_at": "2026-09-14T03:18:27.994Z",
       "language": "python",
       "lines": 68
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2026-09-15T05:06:37.407Z",
+      "last_pushed_at": "2026-09-15T05:06:37.407Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:907": {
+      "kind": "problem",
+      "id": "907",
+      "title": "Implement an LSTM Cell from Scratch",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/907",
+      "path": "problems/0907-implement-an-lstm-cell-from-scratch",
+      "first_solved_at": "2026-09-15T06:11:25.151Z",
+      "last_pushed_at": "2026-09-15T06:11:25.151Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-09-15T06:27:06.527Z",
+      "last_pushed_at": "2026-09-15T06:27:06.527Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }

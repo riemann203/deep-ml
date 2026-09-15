@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 20 problems · 2 labs · 0 math
+**25** solved · 23 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,8 +22,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-16 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-16 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-16 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-15 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-05 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-09-15 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-06 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-15 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-14 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-07 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-16 | [solution](problems/0009-matrix-times-matrix) |
