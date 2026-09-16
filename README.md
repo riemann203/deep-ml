@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 23 problems · 2 labs · 0 math
+**26** solved · 24 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-06 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-15 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-14 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-16 | [solution](problems/0017-k-means-clustering) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-07 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-16 | [solution](problems/0007-matrix-transformation) |
