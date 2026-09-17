@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:16:57.001Z",
+  "generated_at": "2026-10-01T06:16:59.157Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -338,6 +338,149 @@
       "last_pushed_at": "2026-09-16T00:37:07.036Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:186": {
+      "kind": "problem",
+      "id": "186",
+      "title": "Gaussian Process for Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/186",
+      "path": "problems/0186-gaussian-process-for-regression",
+      "first_solved_at": "2026-09-17T02:41:10.689Z",
+      "last_pushed_at": "2026-09-17T02:41:10.689Z",
+      "language": "python",
+      "lines": 213
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-17T04:29:56.801Z",
+      "last_pushed_at": "2026-09-17T04:29:56.801Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-17T05:33:51.547Z",
+      "last_pushed_at": "2026-09-17T05:33:51.547Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-09-17T05:38:38.266Z",
+      "last_pushed_at": "2026-09-17T05:38:38.266Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-17T05:46:44.314Z",
+      "last_pushed_at": "2026-09-17T05:46:44.314Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-09-17T05:54:51.441Z",
+      "last_pushed_at": "2026-09-17T05:54:51.441Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-17T06:04:36.199Z",
+      "last_pushed_at": "2026-09-17T06:04:36.199Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-09-17T06:12:36.485Z",
+      "last_pushed_at": "2026-09-17T06:12:36.485Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-09-17T06:38:10.749Z",
+      "last_pushed_at": "2026-09-17T06:38:10.749Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-09-17T07:08:12.982Z",
+      "last_pushed_at": "2026-09-17T07:08:12.982Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-09-17T07:15:20.344Z",
+      "last_pushed_at": "2026-09-17T07:15:20.344Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
