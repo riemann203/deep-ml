@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:16:59.157Z",
+  "generated_at": "2026-10-01T06:17:01.561Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -481,6 +481,136 @@
       "last_pushed_at": "2026-09-17T07:15:20.344Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-09-18T00:55:37.804Z",
+      "last_pushed_at": "2026-09-18T00:55:37.804Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-18T00:57:50.719Z",
+      "last_pushed_at": "2026-09-18T00:57:50.719Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-18T00:58:34.838Z",
+      "last_pushed_at": "2026-09-18T00:58:34.838Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-09-18T01:01:17.263Z",
+      "last_pushed_at": "2026-09-18T01:01:17.263Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-18T01:02:08.239Z",
+      "last_pushed_at": "2026-09-18T01:02:08.239Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-09-18T08:25:32.628Z",
+      "last_pushed_at": "2026-09-18T08:25:32.628Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-18T08:34:24.746Z",
+      "last_pushed_at": "2026-09-18T08:34:24.746Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-09-18T08:37:36.441Z",
+      "last_pushed_at": "2026-09-18T08:37:36.441Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-09-18T09:04:46.092Z",
+      "last_pushed_at": "2026-09-18T09:04:46.092Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-09-18T09:27:17.806Z",
+      "last_pushed_at": "2026-09-18T09:27:17.806Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
