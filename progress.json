@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:17:01.561Z",
+  "generated_at": "2026-10-01T06:17:04.887Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -611,6 +611,45 @@
       "last_pushed_at": "2026-09-18T09:27:17.806Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-09-19T03:24:52.506Z",
+      "last_pushed_at": "2026-09-19T03:24:52.506Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-09-19T03:29:06.926Z",
+      "last_pushed_at": "2026-09-19T03:29:06.926Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-09-19T04:29:36.823Z",
+      "last_pushed_at": "2026-09-19T04:29:36.823Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
