@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:17:04.887Z",
+  "generated_at": "2026-10-01T06:17:06.857Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -650,6 +650,71 @@
       "last_pushed_at": "2026-09-19T04:29:36.823Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-09-20T05:56:44.337Z",
+      "last_pushed_at": "2026-09-20T05:56:44.337Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-09-20T06:01:45.664Z",
+      "last_pushed_at": "2026-09-20T06:01:45.664Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2026-09-20T06:12:47.589Z",
+      "last_pushed_at": "2026-09-20T06:12:47.589Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-09-20T06:33:11.910Z",
+      "last_pushed_at": "2026-09-20T06:33:11.910Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-09-20T08:15:29.416Z",
+      "last_pushed_at": "2026-09-20T08:15:29.416Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
