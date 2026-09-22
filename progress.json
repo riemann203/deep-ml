@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:17:08.654Z",
+  "generated_at": "2026-10-01T06:17:10.554Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -780,6 +780,45 @@
       "last_pushed_at": "2026-09-21T08:04:29.530Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-09-22T01:43:41.273Z",
+      "last_pushed_at": "2026-09-22T01:43:41.273Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-09-22T01:54:33.700Z",
+      "last_pushed_at": "2026-09-22T01:54:33.700Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-09-22T02:18:52.699Z",
+      "last_pushed_at": "2026-09-22T02:18:52.699Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
