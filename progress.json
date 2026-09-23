@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:39:33.182Z",
+  "generated_at": "2026-10-04T07:24:04.749Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -832,6 +832,45 @@
       "last_pushed_at": "2026-10-01T09:39:31.563Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-09-23T06:56:44.599Z",
+      "last_pushed_at": "2026-09-23T06:56:44.599Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-09-23T07:06:58.443Z",
+      "last_pushed_at": "2026-09-23T07:06:58.443Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-09-23T07:11:24.305Z",
+      "last_pushed_at": "2026-09-23T07:11:24.305Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
