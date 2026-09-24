@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T07:24:04.749Z",
+  "generated_at": "2026-10-04T07:24:07.169Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -871,6 +871,149 @@
       "last_pushed_at": "2026-09-23T07:11:24.305Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-09-24T00:41:22.921Z",
+      "last_pushed_at": "2026-09-24T00:41:22.921Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2026-09-24T00:53:21.696Z",
+      "last_pushed_at": "2026-09-24T00:53:21.696Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-09-24T00:55:53.991Z",
+      "last_pushed_at": "2026-09-24T00:55:53.991Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2026-09-24T08:21:58.852Z",
+      "last_pushed_at": "2026-09-24T08:21:58.852Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-09-24T08:43:32.642Z",
+      "last_pushed_at": "2026-09-24T08:43:32.642Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2026-09-24T08:49:38.319Z",
+      "last_pushed_at": "2026-09-24T08:49:38.319Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-09-24T08:52:18.968Z",
+      "last_pushed_at": "2026-09-24T08:52:18.968Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-09-24T08:54:14.178Z",
+      "last_pushed_at": "2026-09-24T08:54:14.178Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2026-09-24T08:55:28.983Z",
+      "last_pushed_at": "2026-09-24T08:55:28.983Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-09-24T08:56:28.152Z",
+      "last_pushed_at": "2026-09-24T08:56:28.152Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:103": {
+      "kind": "problem",
+      "id": "103",
+      "title": "Implement the SELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/103",
+      "path": "problems/0103-implement-the-selu-activation-function",
+      "first_solved_at": "2026-09-24T08:58:30.368Z",
+      "last_pushed_at": "2026-09-24T08:58:30.368Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
