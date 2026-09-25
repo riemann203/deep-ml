@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T07:24:07.169Z",
+  "generated_at": "2026-10-04T07:24:09.331Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -1014,6 +1014,45 @@
       "last_pushed_at": "2026-09-24T08:58:30.368Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-09-25T01:32:29.596Z",
+      "last_pushed_at": "2026-09-25T01:32:29.596Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:108": {
+      "kind": "problem",
+      "id": "108",
+      "title": "Measure Disorder in Apple Colors",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/108",
+      "path": "problems/0108-measure-disorder-in-apple-colors",
+      "first_solved_at": "2026-09-25T01:37:31.892Z",
+      "last_pushed_at": "2026-09-25T01:37:31.892Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-09-25T01:39:28.358Z",
+      "last_pushed_at": "2026-09-25T01:39:28.358Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
