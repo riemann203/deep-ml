@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T07:24:11.018Z",
+  "generated_at": "2026-10-04T07:24:12.519Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -1066,6 +1066,58 @@
       "last_pushed_at": "2026-09-29T08:27:41.067Z",
       "language": "python",
       "lines": 75
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-10-03T04:34:45.329Z",
+      "last_pushed_at": "2026-10-03T04:34:45.329Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-10-03T04:44:44.090Z",
+      "last_pushed_at": "2026-10-03T04:44:44.090Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-10-03T05:10:03.198Z",
+      "last_pushed_at": "2026-10-03T05:10:03.198Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:1384": {
+      "kind": "problem",
+      "id": "1384",
+      "title": "Reparameterization Trick and the VAE Prior KL",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1384",
+      "path": "problems/1384-reparameterization-trick-and-the-vae-prior-kl",
+      "first_solved_at": "2026-10-03T05:26:18.214Z",
+      "last_pushed_at": "2026-10-03T05:26:18.214Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
