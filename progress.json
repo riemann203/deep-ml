@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:03:31.448Z",
+  "generated_at": "2026-11-18T11:20:45.081Z",
   "items": {
     "lab:18": {
       "kind": "lab",
@@ -1141,9 +1141,9 @@
       "url": "https://www.deep-ml.com/problems/260",
       "path": "problems/0260-calculate-expected-calibration-error-ece",
       "first_solved_at": "2026-11-18T11:03:30.041Z",
-      "last_pushed_at": "2026-11-18T11:03:30.041Z",
+      "last_pushed_at": "2026-11-18T11:20:43.926Z",
       "language": "python",
-      "lines": 31
+      "lines": 33
     }
   }
 }

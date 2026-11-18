@@ -16,16 +16,18 @@ def expected_calibration_error(y_true, y_prob, n_bins=10):
     y_prob = np.asarray(y_prob)
 
     bin_edges = np.linspace(0.0, 1.0, num = n_bins + 1)
-    bin_indices = np.digitize(y_prob, bin_edges, right=True)
-    bin_indices = np.clip(bin_indices, 1, n_bins)
 
-    ece = 0.
-    for i in range(1, n_bins + 1):
-        mask = (bin_indices == i)
-        if np.all(~mask):
-            continue
-        acc = np.mean(y_true[mask])
-        confidence = np.mean(y_prob[mask])
-        weight = np.sum(mask) / len(y_true)
-        ece += weight * abs(acc - confidence)
+    bin_indices = np.searchsorted(
+        bin_edges[1:-1],
+        y_prob,
+        side="left"
+    )
+
+    bin_errors = np.bincount(
+        bin_indices,
+        weights=y_true - y_prob,
+        minlength=n_bins
+    )
+
+    ece = np.sum(np.abs(bin_errors)) / len(y_true)
     return float(np.round(ece, 3))
